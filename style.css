@@ -183,8 +183,7 @@ nav ul {
     cursor: pointer;
     color: var(--highlight);
   }
-  
-  /* ---------------- ANIMATION BONUS ---------------- */
+
   .fade-in {
     animation: fade 1.5s ease-in-out;
   }
